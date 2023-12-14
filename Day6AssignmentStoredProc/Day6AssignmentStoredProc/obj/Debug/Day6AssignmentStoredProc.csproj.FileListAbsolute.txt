@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\bin\Debug\Day6AssignmentStoredProc.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\bin\Debug\Day6AssignmentStoredProc.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\bin\Debug\Day6AssignmentStoredProc.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\obj\Debug\Day6AssignmentStoredProc.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\obj\Debug\Day6AssignmentStoredProc.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\obj\Debug\Day6AssignmentStoredProc.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 2\Day6\Day6Assignment\Day6AssignmentStoredProc\Day6AssignmentStoredProc\obj\Debug\Day6AssignmentStoredProc.pdb
